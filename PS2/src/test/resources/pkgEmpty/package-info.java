@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author jared
- *
- */
-package pkgEmpty;
